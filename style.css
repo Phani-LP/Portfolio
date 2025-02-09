@@ -28,6 +28,9 @@
         justify-content: space-evenly;
         width:330px;
     }
+    #left a{
+        border-bottom:2px solid #1f1d1d;
+    }
     #left a:hover{
         border-bottom:2px solid rgb(218, 255, 255);
     }
@@ -421,6 +424,9 @@
         display: flex;
         justify-content: space-evenly;
         width: 330px;
+    }
+    #left a{
+        border-bottom:2px solid #1f1d1d;
     }
      #left a:hover{
         border-bottom:2px solid rgb(218, 255, 255);
